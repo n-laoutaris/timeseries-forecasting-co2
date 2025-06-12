@@ -1,4 +1,4 @@
-# Time Series Analysis of Mauna Loa CO₂ Data (R, itsmr)
+# Time Series Analysis of Mauna Loa CO₂ Data
 
 This project demonstrates a comprehensive time series analysis of the Mauna Loa atmospheric CO₂ dataset using R and the `itsmr` package. The analysis is presented in a Jupyter Notebook and follows a practical, minimal-library approach inspired by academic coursework.
 
